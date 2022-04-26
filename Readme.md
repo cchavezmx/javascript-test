@@ -1,12 +1,13 @@
 
-# Ejercios JAVASCRIPT de Cero a Experto 🚀
+# Ejercicios JAVASCRIPT de Cero a Experto 🚀
 ---
 
 ## Instalación: 
   
-Simplemente hace un npm install o npm i, también puedes usar yarn según tu sistema
+Para instalar puedes usar npm o también puedes usar yarn según tu sistema
+
  ````
-  npm install
+  npm i
  ````
 
 ---
