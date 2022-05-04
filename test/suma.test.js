@@ -1,4 +1,4 @@
-const sum = require('../ejercicios_basicos/suma.js')
+const sum = require('../ejercicios/suma.js')
 const testing = [
   {
     input: [1, 2, 3],
