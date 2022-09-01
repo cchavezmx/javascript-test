@@ -1,26 +1,54 @@
 
-# Ejercicios JAVASCRIPT de Cero a Experto 🚀
+# Ejercicios JAVASCRIPT 💪💪💪💪
 ---
 
-## Instalación: 
+## Instalación: 😎
   
-Para instalar puedes usar npm o también puedes usar yarn según tu sistema
+Para instalar puedes usar npm o también puedes usar yarn según tu sistema, recuerda que para tener npm debes tener instalado node.js
+si no lo tienes puedes descargarlo desde aquí: https://nodejs.org/es/
+
+una vez que tengas node.js instalado y forkeado el repositorio puedes ejecutar el siguiente comando para instalar las dependencias:
 
  ````
-  npm i
- ````
+  npm install --save-dev
 
+ ````
+ 
 ---
 
-# Primeros pasos
+# Primeros pasos 🐌
 
-Dentro de cada ejercicios_basicos estan los archivos con las instruccion, 
-solo tienes que completar el codigo sin modificar las constantes. 
+  Dentro de la carpeta __ejercicios__ encontrarás los archivos de los ejercicios, cada uno de ellos tiene un nombre que indica el tema que se está trabajando, por ejemplo:
+  
+  ````
+  suma.js
 
+  ````
 
-### Correr los test
-Si crees que ya esta lista tu prueba y quieres correr los test, solo tienes que ejecutar: 
+  Si abres el archivo veras las instrucciones para completar el ejercicio y cada uno de ellos tiene un test que puedes ejecutar para verificar que tu código funciona correctamente, 
+  
+  Para ejecutar el test puedes usar el siguiente comando:
+
+````
+  npm run test suma
+
+````
+ O puedes correr todos los test con el siguiente comando:
 
 ````
   npm run test
 ````
+
+## Ayuda y contribuciones ⛑️
+
+  Si quieres contribuir a este proyecto o recibir ayuda, sigue los siguientes pasos:
+
+  1. Haz un fork del proyecto
+  2. Crea una rama con tu nueva característica (git checkout -b feature/fooBar)
+  3. Haz commit de tus cambios (git commit -m 'Add some fooBar')
+  4. Haz push a la rama (git push origin feature/fooBar)
+  5. Crea un nuevo Pull Request
+
+
+## ⚠️ Favor de no modificar el contenido de la carpeta test ya que es el encargado de ejecutar los test y si lo modificas no podrás ejecutarlos correctamente. ⚠️
+
